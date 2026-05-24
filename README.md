@@ -1,2 +1,23 @@
-# Exploratory-Data-Analysis-EDA-
-Python-based Exploratory Data Analysis (EDA) project using Pandas, Matplotlib, and Seaborn for data cleaning, statistical analysis, visualization, and insight generation.
+# Overview
+This project performs Exploratory Data Analysis (EDA) on customer purchase data using Python.
+
+# Features
+- Data Cleaning
+- Statistical Analysis
+- Histograms
+- Bar Charts
+- Correlation Heatmaps
+- Boxplots
+- Insights Generation
+
+# Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+# Installation
+
+pip install -r requirements.txt
