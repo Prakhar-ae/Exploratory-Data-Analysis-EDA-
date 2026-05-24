@@ -1,0 +1,11 @@
+CustomerID,Age,Gender,AnnualIncome,SpendingScore,PurchaseAmount,City
+1,19,Male,15000,39,1200,Delhi
+2,21,Male,16000,81,3400,Mumbai
+3,20,Female,17000,6,500,Pune
+4,23,Female,18000,77,2900,Delhi
+5,31,Male,19000,40,1500,Chennai
+6,22,Female,20000,76,3100,Kolkata
+7,35,Male,21000,6,400,Delhi
+8,23,Female,22000,94,4200,Mumbai
+9,64,Male,23000,3,300,Pune
+10,30,Female,24000,72,2700,Chennai
